@@ -1,0 +1,5 @@
+R_DEF: Internal format may change without notice
+local
+drawable logo_aquacheck
+string app_name
+style Theme.AquaCheck

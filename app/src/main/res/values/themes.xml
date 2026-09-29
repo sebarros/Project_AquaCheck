@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.AquaCheck" parent="android:style/Theme.Material.Light.NoActionBar" />
+</resources>
